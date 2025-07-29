@@ -1,0 +1,6 @@
+name = "parentpal-ai-app"
+main = "worker/index.ts"
+compatibility_date = "2025-07-29"
+
+[site]
+bucket = "./worker/static"
